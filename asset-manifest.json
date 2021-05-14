@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yourweather/static/css/main.78e50257.chunk.css",
+    "main.js": "/yourweather/static/js/main.2e989d14.chunk.js",
+    "main.js.map": "/yourweather/static/js/main.2e989d14.chunk.js.map",
+    "runtime-main.js": "/yourweather/static/js/runtime-main.f2cf01c7.js",
+    "runtime-main.js.map": "/yourweather/static/js/runtime-main.f2cf01c7.js.map",
+    "static/js/2.86533742.chunk.js": "/yourweather/static/js/2.86533742.chunk.js",
+    "static/js/2.86533742.chunk.js.map": "/yourweather/static/js/2.86533742.chunk.js.map",
+    "static/js/3.5549a767.chunk.js": "/yourweather/static/js/3.5549a767.chunk.js",
+    "static/js/3.5549a767.chunk.js.map": "/yourweather/static/js/3.5549a767.chunk.js.map",
+    "index.html": "/yourweather/index.html",
+    "static/css/main.78e50257.chunk.css.map": "/yourweather/static/css/main.78e50257.chunk.css.map",
+    "static/js/2.86533742.chunk.js.LICENSE.txt": "/yourweather/static/js/2.86533742.chunk.js.LICENSE.txt",
+    "static/media/Your-Weather.43d9964e.svg": "/yourweather/static/media/Your-Weather.43d9964e.svg",
+    "static/media/weather-icons-wind.min.css": "/yourweather/static/media/weathericons-regular-webfont.e218aee6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2cf01c7.js",
+    "static/js/2.86533742.chunk.js",
+    "static/css/main.78e50257.chunk.css",
+    "static/js/main.2e989d14.chunk.js"
+  ]
+}
